@@ -25,8 +25,13 @@ The challenge involves creating a blog card preview with hover and focus states 
 
 ### Screenshot
 
-![](./screenshot.png)
+The screenshot below shows the desktop design:
 
+![](./screenshot-desktop.png)
+
+The screenshot below shows the mobile design:
+
+![](./screenshot-mobile.png)
 
 ### Links
 
