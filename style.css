@@ -45,6 +45,12 @@ svg {
 .title {
   margin-top: -0.5rem;
   font-size: 26px;
+  cursor: pointer;
+}
+
+.title:hover,
+.title:focus {
+  color: hsl(47, 88%, 50%);
 }
 
 .content {
